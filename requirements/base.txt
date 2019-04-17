@@ -1,0 +1,6 @@
+-r base.txt
+
+black==19.3b0
+flake8==3.7.7
+pytest==4.4.0
+tox==3.8.1
