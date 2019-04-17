@@ -1,6 +1,5 @@
--r base.txt
-
 black==19.3b0
 flake8==3.7.7
+Pillow==6.0.0
 pytest==4.4.0
-tox==3.8.1
+tox==3.9.0
